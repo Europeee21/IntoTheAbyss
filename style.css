@@ -1,0 +1,23 @@
+body {
+    background-color: black;
+    color: #fff;
+    font-family: sans-serif;
+}
+
+.green-bg {
+    background-color: forestgreen
+}
+
+.tan-bg {
+    background-color: tan;
+    color: black;
+}
+
+a {
+    color: aqua;
+}
+
+p {
+
+    font-size: 20px;
+}
